@@ -25,7 +25,7 @@ AlexNet demonstrated remarkable performance in image classification tasks, achie
 reduction in error rates compared to previous methods.
 
 <p align = "center">
-<img src = "">
+<img src = "https://github.com/AsdiIqbal/Model-Architecture-Design-for-Face-Recognition/blob/main/resources/as.PNG">
 </p>
 
 The architecture of AlexNet consists of 
@@ -57,7 +57,7 @@ digit recognition and played a significant role in popularizing convolutional ne
 for image classification tasks. 
 
 <p align = "center">
-<img src = "">
+<img src = "https://github.com/AsdiIqbal/Model-Architecture-Design-for-Face-Recognition/blob/main/resources/lenet.PNG">
 </p>
 
 The architecture of LeNet-5 consists of seven layers,including three convolutional layers followed by two fully connected layers and two subsampling (pooling) layersThe net count of the parameters isas shown below:
@@ -86,7 +86,7 @@ was developed by the Visual Geometry Group at the University of Oxford. It was d
 the challenge of image classification and object recognition. 
 
 <p align = "center">
-<img src = "">
+<img src = "https://github.com/AsdiIqbal/Model-Architecture-Design-for-Face-Recognition/blob/main/resources/Capture.PNG">
 </p>
 
 The VGG-16 architecture is 
@@ -188,11 +188,10 @@ LOSS : 0.14342497289180756
 ACCURACY : 0.949999988079071
 ```
 
-**
-NOTE: 
--This model is still in testing phase. It is not inference-ready.
+## NOTE: 
+- This model is still in testing phase. It is not inference-ready.
 - Used Dataset is not public. You need to use your own dataset.
-**
+
 
 ## References
 -[A guide to build NN architecture](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7?gi=75beb0daf8b5)
